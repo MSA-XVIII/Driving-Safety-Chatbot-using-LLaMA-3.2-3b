@@ -1,0 +1,1072 @@
+[
+    {
+        "instruction": "What should you do when approaching a red traffic light?",
+        "response": "You must come to a complete stop before the stop line. Do not proceed until the light turns green."
+    }
+    {
+        "instruction": "What is the speed limit in a school zone?",
+        "response": "In most regions, the speed limit in a school zone is 20–25 km/h (or 15–25 mph) during school hours. Always watch for posted signs."
+    }
+    {
+        "instruction": "When must you use your headlights?",
+        "response": "You must use headlights from sunset to sunrise, in fog, heavy rain, or any time visibility drops below 150 metres."
+    }
+    {
+        "instruction": "What does a yellow diamond-shaped sign indicate?",
+        "response": "A yellow diamond-shaped sign is a warning sign. It alerts drivers to potential hazards ahead such as curves, intersections, or pedestrian crossings."
+    }
+    {
+        "instruction": "Explain the two-second following distance rule.",
+        "response": "Pick a fixed point ahead. When the vehicle in front passes it, count 'one-thousand-one, one-thousand-two'. Your car should not reach that point before you finish counting. In bad weather, double this to four seconds."
+    }
+    {
+        "instruction": "What should you do if your vehicle begins to skid?",
+        "response": "Ease off the accelerator. Steer gently in the direction you want the front of the car to go. Do not brake hard—it worsens the skid."
+    }
+    {
+        "instruction": "When is it legal to use a mobile phone while driving?",
+        "response": "You may only use a mobile phone hands-free (e.g., mounted cradle with Bluetooth). Holding a phone while driving is illegal in most jurisdictions and carries heavy penalties."
+    }
+    {
+        "instruction": "What does a solid white line on the road mean?",
+        "response": "A solid white line marks the edge of the roadway or separates lanes of traffic moving in the same direction. You should not cross it unless it is safe and necessary."
+    }
+    {
+        "instruction": "How should you handle a four-way stop?",
+        "response": "The first vehicle to arrive has the right of way. If two vehicles arrive simultaneously, the one on the right goes first. If directly opposite, the vehicle turning left yields to oncoming traffic."
+    }
+    {
+        "instruction": "What is the safe blood alcohol concentration (BAC) limit for drivers?",
+        "response": "In most countries the legal limit is 0.08% BAC. However, even lower levels impair judgment. For new and professional drivers, many regions enforce a 0.00% or 0.02% limit."
+    }
+    {"instruction": "What documents must I always carry while driving a private car in India?", "response": "According to the Motor Vehicles Act, you must carry your valid Driving License (DL), the vehicle's Registration Certificate (RC), a valid Pollution Under Control (PUC) certificate, and valid motor insurance."}
+{"instruction": "I am approaching a roundabout. Who has the right of way?", "response": "Vehicles that are already inside the roundabout have the right of way. You must yield to traffic approaching from your right before entering the roundabout."}
+{"instruction": "What is the legal blood alcohol concentration (BAC) limit for driving in India?", "response": "The legal BAC limit is 0.03% or 30 mg of alcohol per 100 ml of blood. Exceeding this limit is a punishable offense under Section 185 of the Motor Vehicles Act."}
+{"instruction": "I see a solid white line in the middle of the road. Can I overtake the car in front of me?", "response": "No. A solid white line indicates that overtaking or crossing the line is strictly prohibited. You must stay in your lane."}
+{"instruction": "What should I do if an ambulance with flashing lights and sirens is approaching from behind?", "response": "You must immediately pull over to the left side of the road and come to a stop if necessary, allowing the emergency vehicle a clear and unobstructed path to pass."}
+{"instruction": "What is the mandatory shape of cautionary road signs in India?", "response": "Cautionary or warning signs are always triangular in shape with a red border. They are used to warn drivers of potential hazards ahead, such as a sharp curve or a school zone."}
+{"instruction": "My vehicle breaks down in the middle of a busy highway. What is the immediate protocol?", "response": "Turn on your hazard lights immediately. Carefully move the vehicle to the extreme left shoulder if possible, place a reflective warning triangle at least 50 meters behind the car, and stand safely away from traffic while waiting for help."}
+{"instruction": "What does a flashing red traffic light indicate?", "response": "A flashing red light means you must come to a complete stop, look both ways, yield to pedestrians and intersecting traffic, and proceed only when it is safe to do so."}
+{"instruction": "Is it permissible to use a mobile phone for navigation while driving?", "response": "Yes, using a mobile phone for navigation is allowed, provided the device is mounted on a hands-free holder and does not distract your focus from driving. However, holding the phone or texting is strictly illegal."}
+{"instruction": "What does a circular sign with a blue background and no red border signify?", "response": "These are mandatory direction signs. They give positive instructions that you must follow, such as 'Compulsory Turn Left' or 'Compulsory Ahead'."}
+{"instruction": "I accidentally bumped into a parked car, and the owner is not around. What are my legal obligations?", "response": "You should leave a note with your contact information and vehicle details secured under the windshield wiper. You are also required to report the incident to the nearest police station within 24 hours."}
+{"instruction": "What is the 'Two-Second Rule'?", "response": "The 'Two-Second Rule' is a safety guideline to maintain a safe following distance. You should stay at least two seconds behind the vehicle directly in front of you to allow enough reaction time if they brake suddenly."}
+{"instruction": "Are pillion riders required to wear helmets in India?", "response": "Yes, under the Motor Vehicles (Amendment) Act, 2019, it is mandatory for both the rider and the pillion passenger on a two-wheeler to wear a BIS-certified helmet."}
+{"instruction": "I am driving at night and the oncoming car has its high beams on, blinding me. What should I do?", "response": "Do not look directly into the headlights. Shift your gaze to the left side of the road, following the white edge line to guide your steering, and briefly flash your high beams to alert the other driver."}
+{"instruction": "What happens if I refuse to take a breathalyzer test when asked by a traffic police officer?", "response": "Refusing a breathalyzer test can lead to immediate arrest without a warrant and the presumption that you are driving under the influence, subjecting you to the associated fines and license suspension."}
+{"instruction": "What does a yellow line painted on the kerb mean?", "response": "A continuous yellow line painted on the edge of the road or kerb indicates that parking and waiting are strictly prohibited at all times."}
+{"instruction": "Can I overtake a vehicle from the left side?", "response": "Generally, overtaking should only be done from the right. However, you may overtake from the left if the vehicle in front of you is clearly signaling to turn right and there is sufficient space in the left lane."}
+{"instruction": "What is the validity period of a learner's license in India?", "response": "A learner's license is valid for six months from the date of issue throughout India. You can apply for a permanent driving license after 30 days of getting the learner's license."}
+{"instruction": "I am approaching an unmanned railway crossing. What is the procedure?", "response": "Stop your vehicle securely before the track. Look to your left and right, and listen carefully for any approaching trains. Only cross when you are absolutely certain the tracks are clear."}
+{"instruction": "What does a 'Stop' sign look like and what is its legal standing?", "response": "The 'Stop' sign is an octagonal (eight-sided) sign with a red background and white border. It is a mandatory sign, meaning you must come to a complete halt before the stop line, regardless of traffic conditions."}
+{"instruction": "What is the penalty for driving a motor vehicle without a valid driving license in India?", "response": "Under Section 181 of the Motor Vehicles Act, driving without a valid license is a punishable offense that attracts a fine of ₹5,000."}
+{"instruction": "I am driving on a two-lane highway and want to overtake the vehicle in front. What is the correct lane discipline?", "response": "You should always use the right lane to overtake. Before doing so, check your mirrors, use your right turn indicator, ensure the road ahead is clear, and overtake swiftly but safely. Return to the left lane once you have safely passed the vehicle."}
+{"instruction": "What does a solid yellow line painted along the center of the road indicate?", "response": "A solid yellow line indicates that overtaking is strictly prohibited. You must stay in your lane and cannot cross the yellow line to pass another vehicle."}
+{"instruction": "When approaching a pedestrian crossing (zebra crossing) with no traffic lights, what must a driver do?", "response": "The driver must slow down and give the right of way to any pedestrians who are already on the zebra crossing or are waiting to cross. You must stop your vehicle completely if necessary."}
+{"instruction": "Is it mandatory to have third-party motor insurance in India?", "response": "Yes, under the Motor Vehicles Act, it is mandatory for every vehicle plying on Indian roads to have at least third-party insurance coverage to compensate for damages or injuries caused to others."}
+{"instruction": "What should you do if you hear the siren of an ambulance or see a fire engine approaching from behind?", "response": "You are legally required to give way immediately. Move your vehicle to the extreme left of the road and slow down or stop to allow the emergency vehicle a clear path."}
+{"instruction": "What is the significance of a blinking yellow traffic light?", "response": "A blinking yellow light means you should slow down, proceed with caution, and be prepared to stop if necessary. It is typically used during low-traffic hours or at intersections where full traffic signals are not currently required."}
+{"instruction": "Under what circumstances can a driver use the horn in a designated 'Silence Zone'?", "response": "You cannot use the horn in a Silence Zone (such as near hospitals, schools, or courts) under any normal circumstances. It should only be used in an extreme emergency to avoid an imminent collision."}
+{"instruction": "What does a triangular road sign with a red border and a picture of children running indicate?", "response": "This is a cautionary sign indicating a 'School Zone' ahead. Drivers must significantly reduce their speed and be highly alert for children suddenly crossing the road."}
+{"instruction": "What is the legal fine for riding a two-wheeler without a helmet in India?", "response": "Riding without a helmet attracts a fine of ₹1,000 and can also result in the disqualification of your driving license for three months."}
+{"instruction": "How long is a newly issued Pollution Under Control (PUC) certificate valid for a new car?", "response": "For a brand new car, the initial PUC certificate is valid for 1 year. After that, it must be renewed every 6 months."}
+{"instruction": "What does an octagonal red sign with white text say, and what does it mean?", "response": "An octagonal red sign is the 'STOP' sign. It is a mandatory sign indicating that you must come to a complete halt before the stop line, check for traffic, and proceed only when it is safe."}
+{"instruction": "What is the correct protocol for turning left at an intersection?", "response": "Move to the leftmost lane well in advance, check your left mirror, turn on your left indicator at least 30 meters before the turn, slow down, and make a tight left turn staying close to the left side of the road you are entering."}
+{"instruction": "Can I park my vehicle on a footpath or a bridge?", "response": "No, parking on a footpath, bridge, pedestrian crossing, or near a traffic light is strictly prohibited and attracts heavy towing fines and challans."}
+{"instruction": "What does a circular sign with a blue background and a white arrow pointing straight ahead mean?", "response": "This is a mandatory direction sign meaning 'Compulsory Ahead Only'. You are not allowed to turn left, right, or take a U-turn."}
+{"instruction": "If a traffic police officer gives a manual hand signal that contradicts the electronic traffic light, which one should I follow?", "response": "You must always follow the manual signals given by a traffic police officer on duty, even if they contradict the electronic traffic lights."}
+{"instruction": "What is the penalty for juvenile driving in India?", "response": "If a juvenile is caught driving, the guardian or owner of the vehicle is held guilty. The penalty includes a fine of ₹25,000, 3 years of imprisonment for the guardian/owner, cancellation of the vehicle registration for 12 months, and the juvenile cannot get a license until age 25."}
+{"instruction": "What is tailgating, and why is it dangerous?", "response": "Tailgating is driving too closely behind the vehicle in front of you. It is dangerous because it drastically reduces your reaction time, making a rear-end collision highly likely if the front vehicle brakes suddenly."}
+{"instruction": "Are you allowed to reverse your vehicle on a one-way street?", "response": "No, reversing a vehicle on a one-way street is strictly prohibited as it goes against the mandatory flow of traffic and can cause severe accidents."}
+{"instruction": "What does a broken white line in the middle of the road signify?", "response": "A broken white line indicates that you may change lanes or overtake the vehicle in front of you, provided it is safe to do so and the road ahead is clear."}
+{"instruction": "What is the fine for driving a vehicle while using a handheld mobile phone?", "response": "Driving while talking on a handheld mobile phone is a serious offense that attracts a fine of ₹1,000 to ₹5,000 depending on the state, and may lead to license suspension."}
+{"instruction": "If you are involved in a motor accident causing injury to another person, what is your first legal duty?", "response": "Your first duty is to secure medical attention for the injured person by taking them to the nearest hospital or calling an ambulance. You must also report the accident to the nearest police station within 24 hours."}
+{"instruction": "What is the meaning of a circular road sign with a red border and the number '50' written in black inside?", "response": "This is a mandatory speed limit sign. It indicates that the maximum legally permissible speed on that stretch of road is 50 kilometers per hour."}
+{"instruction": "When driving in heavy fog, what lights should you use?", "response": "You should use your low beam headlights and fog lights (if equipped). Never use high beams in fog, as the light reflects off the water droplets and blinds you, reducing visibility further."}
+{"instruction": "What does a traffic sign showing a 'U-turn' with a red diagonal line through it mean?", "response": "This is a mandatory prohibitory sign that indicates taking a U-turn is strictly forbidden at that specific location."}
+{"instruction": "Is it legal to coast down a steep hill with the clutch depressed or in neutral gear?", "response": "No, coasting in neutral or with the clutch down is dangerous and incorrect. It reduces your control over the vehicle and eliminates engine braking, forcing you to rely solely on your brakes, which can overheat and fail."}
+{"instruction": "What is the correct way to use a roundabout?", "response": "Slow down as you approach. Traffic already circulating within the roundabout has the right of way. Enter only when there is a safe gap, keep to the left, and use your left indicator just before your intended exit."}
+{"instruction": "What does a rectangular sign with a blue background and a white bed symbol indicate?", "response": "This is an informatory sign indicating that there is a hospital or medical resting facility nearby."}
+{"instruction": "What is the legal consequence of drunk driving under the Motor Vehicles Act?", "response": "Driving under the influence of alcohol (BAC exceeding 30mg/100ml) can result in a fine of up to ₹10,000 and/or imprisonment for up to 6 months for the first offense, plus suspension of the driving license."}
+{"instruction": "Why is it important to use the parking brake (handbrake) when parked on a slope?", "response": "The parking brake ensures the vehicle remains stationary. If parked facing uphill, you should also leave the car in first gear (or Park for automatics); if facing downhill, leave it in reverse gear as a secondary safety measure."}
+{"instruction": "What does a blinking red traffic light mean?", "response": "A blinking red light requires you to come to a complete stop at the intersection. You must yield to all other traffic and pedestrians, and proceed only when it is entirely safe."}
+{"instruction": "Can a driver overtake a vehicle on a curve or a blind corner?", "response": "No, overtaking on curves, blind corners, or steep hills is strictly prohibited because you cannot see oncoming traffic, making it a highly dangerous maneuver."}
+{"instruction": "What is the requirement for seatbelts in a passenger car?", "response": "It is legally mandatory for the driver and all passengers, including those sitting in the rear seats, to wear seatbelts while the car is in motion. Failure to do so attracts a fine of ₹1,000."}
+{"instruction": "What should you do if your vehicle starts to aquaplane (skid on wet roads)?", "response": "Do not panic or slam on the brakes. Take your foot off the accelerator gently, hold the steering wheel firmly straight, and wait for the tires to regain traction with the road surface."}
+{"instruction": "What is the purpose of the 'blind spot' check?", "response": "A blind spot is an area around your vehicle that cannot be seen in your rearview or side mirrors. Checking your blind spot by quickly glancing over your shoulder is crucial before changing lanes or pulling out."}
+{"instruction": "What does a sign showing a horn with a red diagonal line through it mean?", "response": "This is a mandatory prohibitory sign indicating a 'No Honking' or 'Silence Zone'. Sounding the horn is legally prohibited in this area."}
+{"instruction": "What is the validity of a permanent driving license for a private vehicle in India?", "response": "A permanent driving license for a private vehicle is generally valid for 20 years from the date of issue, or until the license holder reaches 40 years of age, whichever is earlier."}
+{"instruction": "What should a driver do when approaching a railway crossing where the barriers are coming down?", "response": "The driver must stop the vehicle well behind the stop line or barrier and wait patiently. You must never attempt to cross, zig-zag through the barriers, or duck under them while they are down."}
+{"instruction": "What is the penalty for racing or taking part in a speed trial on public roads?", "response": "Racing on public roads is a major offense under Section 189 of the Motor Vehicles Act, carrying a fine of ₹5,000 and/or imprisonment for up to 1 month for the first offense."}
+{"instruction": "What does a circular sign with a blue background and '30' written in white indicate?", "response": "This is a mandatory minimum speed limit sign. It means you must drive at a speed of at least 30 km/h on that road, unless traffic or weather conditions make it unsafe."}
+{"instruction": "Are High Security Registration Plates (HSRP) mandatory for all vehicles?", "response": "Yes, the Ministry of Road Transport and Highways (MoRTH) has made it mandatory for all vehicles to be affixed with High Security Registration Plates (HSRP) and color-coded fuel stickers."}
+{"instruction": "What is the consequence of driving a car with heavily tinted windows?", "response": "Using heavily tinted glass is illegal. The Supreme Court of India mandates a minimum visual light transmission (VLT) of 70% for the front and rear windshields, and 50% for the side windows. Violators face a fine and the film will be peeled off."}
+{"instruction": "Is it legal to modify my motorcycle's silencer to make it louder?", "response": "No, modifying silencers or using aftermarket exhausts that exceed the prescribed decibel limits is a violation of the Motor Vehicles Act and will result in heavy fines and seizure of the vehicle."}
+{"instruction": "What are the rules for a learner driver?", "response": "A driver with a learner's license must be accompanied at all times by a person holding a valid permanent driving license. Additionally, a red 'L' must be prominently displayed on the front and rear of the vehicle."}
+{"instruction": "I see a green number plate with white lettering. What kind of vehicle is this?", "response": "A green number plate with white text indicates that it is a private Electric Vehicle (EV). If the text is yellow on a green background, it is a commercial Electric Vehicle."}
+{"instruction": "What does a yellow number plate with black text signify?", "response": "This color combination is reserved for commercial transport vehicles, such as taxis, trucks, and commercial goods carriers. Drivers of these vehicles require a specific commercial driving license."}
+{"instruction": "What is the penalty for jumping a red traffic light?", "response": "Jumping a red light is considered dangerous driving and attracts a fine of up to ₹1,000 to ₹5,000, and may also result in the suspension of your driving license."}
+{"instruction": "Can three people ride on a two-wheeler if they are all wearing helmets?", "response": "No, riding triples on a two-wheeler is strictly prohibited by law, regardless of whether helmets are worn. The vehicle is only designed and registered for two occupants."}
+{"instruction": "What does a triangular sign showing a car skidding mean?", "response": "This is a cautionary sign indicating a 'Slippery Road Ahead'. You should reduce your speed, avoid sudden braking, and steer smoothly to prevent aquaplaning or skidding."}
+{"instruction": "Who has the right of way on a narrow, steep mountain road?", "response": "The vehicle traveling uphill always has the right of way. Vehicles driving downhill must pull over or yield to allow the ascending vehicle to pass safely."}
+{"instruction": "When should you use your hazard lights (all four turn indicators flashing)?", "response": "Hazard lights should strictly be used only when your vehicle has broken down and is a stationary obstruction on the road. It is illegal to use them while driving in rain, fog, or through a tunnel."}
+{"instruction": "Is it permissible to play very loud music while driving?", "response": "No, playing loud music that distracts you, prevents you from hearing emergency sirens, or causes a public nuisance is an offense under the Motor Vehicles Act."}
+{"instruction": "What happens if a traffic police officer in uniform asks to see my documents and I refuse?", "response": "Refusing to produce your driving license, RC, insurance, or PUC when demanded by a uniformed police officer or Motor Vehicles Department officer is an offense that will lead to fines and potential legal action."}
+{"instruction": "Can I use a copy of my documents on my phone instead of physical cards?", "response": "Yes, digital copies of your Driving License, RC, and other documents are legally valid in India if they are presented through government-approved apps like DigiLocker or mParivahan."}
+{"instruction": "What does a sign with an upward-pointing arrow painted on the road surface mean?", "response": "This is a directional arrow indicating that the lane you are in is strictly for vehicles traveling straight ahead. You must not turn left or right from this lane."}
+{"instruction": "How do I correctly tow a broken-down vehicle?", "response": "The towed vehicle must be steered by a licensed driver, the tow rope or chain must not exceed 5 meters in length, and the towing speed must be kept very low. You should also display a warning sign on the towed vehicle."}
+{"instruction": "What is the penalty for allowing a minor or an unlicensed person to drive my car?", "response": "If you allow an unauthorized or unlicensed person to drive your vehicle, you (the owner) will be held responsible. This can result in a fine of ₹5,000, and possibly imprisonment."}
+{"instruction": "What does a triangular sign showing a person digging the road indicate?", "response": "This is a cautionary sign indicating 'Men at Work' or road construction ahead. Drivers must slow down and be prepared for lane closures, debris, or workers on the road."}
+{"instruction": "Can I park my vehicle within 5 meters of an intersection?", "response": "No, parking near an intersection or a corner obstructs the line of sight for other turning vehicles and is strictly prohibited."}
+{"instruction": "What is FASTag and is it mandatory?", "response": "FASTag is an electronic toll collection system using RFID technology. It is mandatory for all four-wheelers passing through national highway toll plazas to ensure seamless, cashless payment."}
+{"instruction": "What should I do if a pedestrian is waiting at a zebra crossing, but I am in a hurry?", "response": "You must stop. Pedestrians always have the absolute right of way at zebra crossings. Failing to yield to them is a punishable traffic offense."}
+{"instruction": "What is the legal tread depth required for vehicle tires?", "response": "Driving with completely bald or heavily worn-out tires is illegal and unsafe. While specific mm measurements are checked during fitness tests, tires must have visible, adequate tread to ensure grip, especially during monsoons."}
+{"instruction": "If my address changes, do I need to update my Registration Certificate (RC)?", "response": "Yes, if you permanently change your residence, you are legally required to inform the RTO and have your address updated on your vehicle's RC within 30 days."}
+{"instruction": "What does a circular sign with a blue background and a bicycle symbol mean?", "response": "This is a mandatory sign indicating a dedicated cycle track. Motor vehicles are strictly prohibited from entering or parking in this lane."}
+{"instruction": "Is it okay to flash my high beams to force the car in front of me to move out of the way?", "response": "No, aggressive flashing of high beams to intimidate other drivers or force them out of the lane is considered aggressive and dangerous driving."}
+{"instruction": "What does a triangular sign with a narrowing black silhouette indicate?", "response": "This indicates a 'Narrow Road Ahead' or 'Narrow Bridge Ahead'. You should reduce speed and be prepared to yield to oncoming heavy vehicles."}
+{"instruction": "Can an International Driving Permit (IDP) be used to drive in India?", "response": "Yes, foreign nationals or NRIs can drive in India using a valid International Driving Permit (IDP) along with the valid driving license issued by their home country."}
+{"instruction": "What is the procedure for renewing an expired driving license?", "response": "You must apply for renewal at your local RTO or online via the Parivahan portal. If the license has been expired for more than a year, you may be required to retake the driving test."}
+{"instruction": "If a school bus has stopped and its indicator lights are flashing, what must you do?", "response": "You must slow down, proceed with extreme caution, and be prepared to stop. Children may be crossing the road blindly from in front of or behind the bus."}
+{"instruction": "What does an upward pointing arrow enclosed in a red circle with a diagonal slash mean?", "response": "This is a mandatory prohibitory sign meaning 'No Entry' or 'Straight Prohibited'. You cannot drive your vehicle past this sign."}
+{"instruction": "What is the penalty for abandoning a vehicle on a public road?", "response": "Leaving a vehicle unattended for more than 10 hours in a public place in a way that causes an obstruction allows the traffic police to tow the vehicle away and levy hefty fines and towing charges."}
+{"instruction": "What does a blue number plate with white letters signify?", "response": "A blue number plate with white text is issued exclusively to vehicles belonging to foreign diplomats, embassies, or consulates."}
+{"instruction": "Are we allowed to use sun shades or curtains on car windows?", "response": "No, the use of curtains, sunshades, or any material that obstructs visibility through the windows is prohibited, except for official VIP vehicles with specific security exemptions."}
+{"instruction": "What does a solid white edge line on the left side of the road signify?", "response": "The solid white edge line marks the boundary of the drivable road surface. You should not drive over this line or park on the shoulder unless it is an absolute emergency."}
+{"instruction": "Can I use my vehicle to carry goods sticking out of the boot or windows?", "response": "No, carrying goods that protrude beyond the physical dimensions of the vehicle is dangerous and illegal, as it poses a severe hazard to other motorists and pedestrians."}
+{"instruction": "What does a triangular sign with a black cross indicate?", "response": "This sign indicates a crossroad or an intersection ahead. Drivers should slow down and look both ways before proceeding."}
+{"instruction": "If I am driving at 80 km/h, what is a safe following distance?", "response": "At higher speeds, the 'Two-Second Rule' should be extended. You should maintain at least a 3 to 4-second gap between your vehicle and the one in front to ensure safe braking distance."}
+{"instruction": "What happens if a driver accumulates too many traffic challans?", "response": "Accumulating multiple unpaid traffic challans or repeatedly committing severe offenses can lead to the RTO suspending or permanently revoking your driving license."}
+{"instruction": "Is it mandatory to pull over for a police vehicle even if its sirens are not on?", "response": "If a police officer signals you to pull over, you must comply immediately and safely stop your vehicle on the side of the road, regardless of whether their sirens were active."}
+{"instruction": "What is the protocol for entering a national highway from a slip road?", "response": "You must use the acceleration lane to match the speed of the highway traffic. Use your right indicator, check your mirrors and blind spot, and merge only when there is a safe gap. Do not force your way in."}
+{"instruction": "What is the purpose of the Anti-lock Braking System (ABS) in a vehicle?", "response": "ABS prevents the wheels from locking up during sudden or hard braking, allowing the driver to maintain steering control and avoid skidding, especially on wet or slippery surfaces."}
+{"instruction": "What does a 'Give Way' sign look like?", "response": "The 'Give Way' sign is an inverted red triangle with a white background. It requires you to slow down and give the right of way to traffic on the major road ahead."}
+{"instruction": "I am driving down a steep hill. Should I use my brakes constantly to control my speed?", "response": "No, relying solely on brakes on a long descent can cause them to overheat and fail (brake fade). You should use 'engine braking' by shifting to a lower gear to safely control your speed."}
+{"instruction": "What is the penalty for driving a commercial vehicle without a valid fitness certificate?", "response": "Driving a commercial or transport vehicle without a valid fitness certificate is a serious offense that attracts a fine of ₹2,000 to ₹5,000 for the first offense."}
+{"instruction": "What should you do if your vehicle's tire suddenly blows out at high speed?", "response": "Do not slam on the brakes. Grip the steering wheel firmly to maintain a straight path, take your foot off the accelerator, and gently guide the vehicle to the side of the road once it slows down."}
+{"instruction": "Is it legal to cross a double solid white line in the center of the road?", "response": "No, crossing or straddling a double solid white line is strictly prohibited under any normal driving circumstances. It acts as an absolute barrier separating opposing traffic flows."}
+{"instruction": "What is the legal age to obtain a learner's license for a geared motorcycle or a car in India?", "response": "The legal age to obtain a learner's license for a Light Motor Vehicle (car) or a motorcycle with gear is 18 years."}
+{"instruction": "What does a rectangular sign with a blue background and a white letter 'P' indicate?", "response": "This is an informatory sign indicating an authorized parking zone. It may also have supplementary symbols showing how vehicles should be parked (e.g., parallel or angled)."}
+{"instruction": "What is 'Highway Hypnosis' and how can a driver avoid it?", "response": "Highway Hypnosis is a trance-like state caused by staring at a monotonous road for a long time. To avoid it, take breaks every two hours, keep your eyes moving, listen to varied music, and ensure the cabin is well-ventilated."}
+{"instruction": "What does a continuous white line with a broken white line next to it mean?", "response": "If the broken line is on your side, you may cross it to overtake if safe. If the continuous solid line is on your side, overtaking or crossing is strictly prohibited."}
+{"instruction": "What is the rule regarding the use of daytime running lights (DRLs) or headlights on two-wheelers?", "response": "Under the Automatic Headlight On (AHO) mandate, the headlights of all two-wheelers manufactured after April 2017 must remain on at all times while the engine is running to increase visibility."}
+{"instruction": "Can a traffic police officer seize my driving license?", "response": "Yes, a traffic police officer of the rank of Sub-Inspector or above can seize your driving license for serious offenses like drunk driving, jumping a red light, or using a mobile phone while driving."}
+{"instruction": "What should I do if my accelerator pedal gets stuck while driving?", "response": "Shift the car into Neutral (N) immediately. This disengages the engine from the wheels. Use the brakes to slow down safely and pull over to the side of the road, then turn off the engine."}
+{"instruction": "What is the penalty for not providing a clear passage to emergency vehicles like ambulances or fire engines?", "response": "Blocking or failing to give way to an emergency vehicle is a severe offense under the amended Motor Vehicles Act, carrying a fine of ₹10,000."}
+{"instruction": "What does a circular sign with a blue background and a white pedestrian symbol mean?", "response": "This is a mandatory sign indicating a pedestrian-only pathway or crossing. Motor vehicles and bicycles are not allowed to enter."}
+{"instruction": "What is the correct procedure for driving through a flooded road?", "response": "If you must cross, engage first gear, keep engine revs high to prevent water from entering the exhaust, and drive slowly without stopping. Once clear, pump your brakes gently to dry them out."}
+{"instruction": "Who has the right of way at an uncontrolled T-junction?", "response": "At a T-junction with no traffic lights or signs, traffic on the main (through) road always has the right of way. The vehicle approaching from the terminating road must yield."}
+{"instruction": "What does an octagonal shape distinguish among traffic signs?", "response": "The octagonal shape is exclusively used for the 'STOP' sign. Its unique shape ensures it can be recognized even from the back, or if it is covered in dirt or snow."}
+{"instruction": "Are you allowed to temporarily park at a bus stop?", "response": "No, parking or stopping your vehicle at a designated bus stop is illegal, as it forces buses to stop in the middle of the road, disrupting traffic and endangering passengers."}
+{"instruction": "What is the fine for overloading a goods vehicle in India?", "response": "Overloading a goods vehicle attracts a massive base fine of ₹20,000, plus an additional ₹2,000 per extra tonne of weight beyond the permissible limit."}
+{"instruction": "What does a triangular sign showing a plus cross inside it mean?", "response": "This is a cautionary sign indicating an intersecting crossroad ahead. You should slow down and be prepared for crossing traffic."}
+{"instruction": "When should I replace the wiper blades on my car?", "response": "Wiper blades should be replaced if they leave streaks, skip across the glass, or make squeaking noises. It is generally recommended to replace them once a year, preferably before the monsoon season."}
+{"instruction": "What does a yellow blinking light at a pedestrian crossing signify?", "response": "A flashing yellow light warns drivers that there is a pedestrian crossing ahead. You must reduce your speed and yield to any pedestrians waiting to cross or already crossing."}
+{"instruction": "Can I use my vehicle's fog lights during a clear night for extra visibility?", "response": "No, fog lights should only be used when visibility is severely reduced by fog, heavy rain, or snow. Using them on a clear night can blind oncoming drivers and is considered an offense."}
+{"instruction": "What is the minimum age limit to drive a transport/commercial vehicle in India?", "response": "The minimum legal age to obtain a driving license for a commercial or transport vehicle is 20 years, and the applicant must already possess a valid LMV license for at least one year."}
+{"instruction": "What should you do if an aggressive driver is tailgating you?", "response": "Do not speed up or brake test them. Maintain a safe speed, move to the left lane when it is safe to do so, and allow the aggressive driver to pass you."}
+{"instruction": "What does a blue rectangular road sign signify?", "response": "Blue rectangular signs are informatory signs. They provide useful information such as directions, destinations, distances, and nearby facilities like petrol pumps or hospitals."}
+{"instruction": "Is an International Driving Permit valid on its own?", "response": "No, an International Driving Permit (IDP) is only a translation of your license. It must always be carried alongside the original valid driving license issued by your home country."}
+{"instruction": "What does a sign showing a silhouette of a car and a motorcycle with a red circle and slash mean?", "response": "This is a mandatory prohibitory sign indicating 'All Motor Vehicles Prohibited'. Neither cars nor two-wheelers are allowed to enter the designated area."}
+{"instruction": "If I am driving an automatic car, what should I do when parked at a traffic light for a long duration?", "response": "To prevent transmission wear and save fuel, it is recommended to shift the gear selector to 'Neutral' (N) and apply the handbrake, rather than holding the foot brake in 'Drive' (D)."}
+{"instruction": "What is the penalty for an underage person riding a two-wheeler without gear (e.g., an Activa) before age 16?", "response": "If caught, the parents/guardians are held liable, facing fines up to ₹25,000, potential imprisonment, and the minor is barred from getting a license until the age of 25."}
+{"instruction": "What does a triangular road sign showing an unguarded railway track indicate?", "response": "This indicates an unmanned railway crossing ahead. Drivers must stop, look in both directions, listen for trains, and only cross when it is entirely clear."}
+{"instruction": "How do you identify a 'No Stopping or Standing' sign?", "response": "It is a circular sign with a blue background, a red border, and a red 'X' cross over it. It means you cannot stop your vehicle there even for a few seconds to drop someone off."}
+{"instruction": "What should a driver check before opening their car door on a roadside?", "response": "A driver must always check their side mirrors and look over their shoulder to ensure no cyclists, motorcyclists, or other vehicles are approaching before opening the door (the Dutch Reach method)."}
+{"instruction": "What is the validity period of a renewed permanent driving license after the age of 40?", "response": "Once a driver crosses the age of 40, the driving license must be renewed every 10 years. After the age of 50, it must be renewed every 5 years."}
+{"instruction": "What does a triangular sign showing a leaping deer mean?", "response": "This is a cautionary sign warning of 'Wild Animals' crossing. You should drive at a reduced speed and be highly alert, especially during dawn and dusk when animals are active."}
+{"instruction": "Is it mandatory to use indicators while changing lanes on an empty highway?", "response": "Yes, it is legally required and a safe driving practice to use turn indicators before any lane change or turn, regardless of whether you see other vehicles around you."}
+{"instruction": "What is the correct way to handle a steep uphill start in a manual car?", "response": "Engage the handbrake, put the car in first gear, press the accelerator slightly while slowly releasing the clutch to the bite point, and then simultaneously release the handbrake to move forward without rolling back."}
+{"instruction": "What does a circular sign with a red border showing a truck mean?", "response": "This is a mandatory 'Prohibitory Sign' for Heavy Goods Vehicles. It means that trucks and large transport vehicles are not permitted to enter that road."}
+{"instruction": "Can I temporarily use a red or blue beacon on my private vehicle during emergencies?", "response": "No, the use of red or blue flashing beacons is strictly restricted to designated emergency and high-ranking official vehicles. Unauthorized use on private vehicles attracts heavy fines and confiscation of the beacon."}
+{
+  "instruction": "What are the minimum age requirements for obtaining a learner's licence for a motorcycle without gear and a car in India?",
+  "response": "For a motorcycle without gear (up to 50cc), the minimum age is 16 years with parental consent. For a motorcycle with gear or light motor vehicle like a car, it's 18 years. You must apply at your regional RTO with documents like Aadhaar, proof of age, and address."
+}
+{
+  "instruction": "Explain the validity period of a learner's licence in India and what happens if you violate its conditions.",
+  "response": "A learner’s licence is valid for 6 months from issuance. You must display 'L' boards front and rear, carry a qualified supervisor (with valid DL), and avoid highways. Violation leads to fine up to ₹500 under Section 19 of MV Act."
+}
+{
+  "instruction": "Can I drive a commercial vehicle on a private car licence? What rule applies?",
+  "response": "No, a private vehicle licence (LMV) doesn't allow commercial transport. Section 2(14) of MV Act defines transport vehicles separately; you need a specific endorsement for commercial vehicles like taxis or trucks from the RTO after passing a driving test."
+}
+{
+  "instruction": "What documents are mandatory to apply for a permanent driving licence after learner's stage?",
+  "response": "Learner’s licence, proof of training (20 hours for LMV), medical certificate (Form 1A), address proof, and vehicle insurance/registration if testing your own vehicle. Apply within 180 days of learner's expiry at RTO; test includes road driving and figure-8."
+}
+{
+"instruction": "Is honking allowed in silent zones in India? What’s the rule?",
+"response": "No honking in silent zones (hospitals, schools, courts) marked by signs. Rule 119 of CMVR bans it; first offence fine ₹400-₹1,000, repeat up to ₹2,000 under Section 194C of MV Act."
+  }
+  {
+    "instruction": "What is the fine for driving without a valid licence in India?",
+    "response": "Under Section 181 of MV Act, fine is ₹5,000 for first offence, up to ₹10,000 for repeat. If unauthorized, it can lead to vehicle seizure and imprisonment up to 3 months."
+  }
+  {
+    "instruction": "What penalty applies for speeding in a car on a national highway (100 kmph limit)?",
+    "response": "Section 183: Fine ₹1,000-₹2,000 for LMV. Exceeding by 25-50 kmph doubles it; over 50 kmph can mean licence suspension. E-challan via cameras enforces this."
+  }
+  {
+    "instruction": "Fine for not wearing a seatbelt while driving?",
+    "response": "Section 194B: ₹1,000 per occupant without seatbelt. Driver is liable for all; applies to front seats in cars/MUVs above 40 kmph zones."
+  }
+  {
+    "instruction": "What’s the punishment for drunk driving with blood alcohol over 30mg/100ml?",
+    "response": "Section 185: First offence ₹10,000 fine + 6 months jail + licence suspension. Repeat: ₹15,000 + 2 years jail. Breathalyzer test mandatory at checkpoints."
+  }
+  {
+    "instruction": "Penalty for using a mobile phone while driving?",
+    "response": "Section 184(13): ₹5,000 fine + possible 3-month jail. Hands-free allowed but not recommended; e-challans common in cities."
+  }
+  {
+    "instruction": "Fine for driving without insurance?",
+    "response": "Section 196: ₹2,000 for first offence, ₹4,000 repeat. Third-party insurance mandatory for all vehicles; check via VAHAN portal."
+  }
+  {
+    "instruction": "What fine for red light jumping?",
+    "response": "Section 184: ₹5,000 + possible 3-month jail. Camera fines auto-issue; yield to green arrow only after full stop if flashing."
+  }
+  {
+    "instruction": "You're approaching an uncontrolled intersection with poor visibility; a pedestrian steps out suddenly. What defensive action?",
+    "response": "Honk twice sharply, brake firmly without locking wheels (use ABS if available), and steer right to avoid if safe. Under Rule 5 of defensive driving, scan 10-15 seconds ahead, maintain 3-second gap, and prioritize pedestrian safety per Section 167 MV Act."
+  }
+  {
+    "instruction": "What is the speed limit in a residential area in India?",
+    "response": "The typical speed limit in residential areas is 20–30 km/h, but drivers must follow posted signs as limits may vary by state."
+  }
+  {
+    "instruction": "What does a red traffic light mean?",
+    "response": "A red light means you must stop completely before the stop line or pedestrian crossing."
+  }
+  {
+    "instruction": "What is the penalty for driving without a valid driving license?",
+    "response": "Driving without a valid license can result in a fine of up to ₹5,000 and possible legal action."
+  }
+  {
+    "instruction": "What should you do at a yellow traffic light?",
+    "response": "A yellow light indicates you should slow down and prepare to stop unless stopping suddenly would be unsafe."
+  }
+  {
+    "instruction": "Explain the meaning of a 'No Entry' sign.",
+    "response": "A 'No Entry' sign indicates that vehicles are not allowed to enter that road from that direction."
+  }
+  {
+    "instruction": "What is defensive driving?",
+    "response": "Defensive driving means anticipating potential hazards and being prepared to react safely to avoid accidents."
+  }
+  {
+    "instruction": "What is the penalty for drunk driving in India?",
+    "response": "Drunk driving can lead to a fine up to ₹10,000 and/or imprisonment up to 6 months for the first offence."
+  }
+  {
+    "instruction": "When should you use a horn?",
+    "response": "Use the horn only when necessary to alert other road users, not unnecessarily or in silence zones."
+  }
+  {
+    "instruction": "What does a triangular road sign indicate?",
+    "response": "Triangular signs indicate warnings about hazards or road conditions ahead."
+  }
+  {
+    "instruction": "What should you do when approaching a pedestrian crossing?",
+    "response": "Slow down and give way to pedestrians crossing the road."
+  }
+  {
+    "instruction": "What is the penalty for not wearing a seatbelt?",
+    "response": "Not wearing a seatbelt can result in a fine of ₹1,000."
+  }
+  {
+    "instruction": "What does a blue circular sign indicate?",
+    "response": "Blue circular signs indicate mandatory instructions that drivers must follow."
+  }
+  {
+    "instruction": "What is the safe following distance?",
+    "response": "Maintain at least a 2–3 second gap from the vehicle ahead under normal conditions."
+  }
+  {
+    "instruction": "What is the penalty for using a mobile phone while driving?",
+    "response": "Using a mobile phone while driving can result in a fine of ₹5,000."
+  }
+  {
+    "instruction": "What should you do at an uncontrolled intersection?",
+    "response": "Slow down and give way to vehicles approaching from the right."
+  }
+  {
+    "instruction": "What does a stop sign mean?",
+    "response": "A stop sign requires you to come to a complete halt and proceed only when it is safe."
+  }
+  {
+    "instruction": "When should headlights be used?",
+    "response": "Headlights should be used during low visibility conditions such as night, rain, or fog."
+  }
+  {
+    "instruction": "What is the penalty for overspeeding?",
+    "response": "Overspeeding fines range from ₹1,000 to ₹2,000 depending on vehicle type and severity."
+  }
+  {
+    "instruction": "What should you do if an ambulance is approaching?",
+    "response": "Immediately give way and allow the ambulance to pass without obstruction."
+  }
+  {
+    "instruction": "What does a 'U-turn prohibited' sign mean?",
+    "response": "It indicates that making a U-turn at that location is not allowed."
+  }
+  {
+    "instruction": "How should you drive in foggy conditions?",
+    "response": "Drive slowly, use low-beam headlights or fog lamps, and maintain extra distance."
+  }
+  {
+    "instruction": "What is the penalty for riding a two-wheeler without a helmet?",
+    "response": "Riding without a helmet can lead to a fine of ₹1,000 and possible license suspension."
+  }
+  {
+    "instruction": "What does a continuous white line on the road indicate?",
+    "response": "It indicates that lane changing or overtaking is not allowed."
+  }
+  {
+    "instruction": "What should you do before changing lanes?",
+    "response": "Check mirrors, use indicators, and ensure it is safe before changing lanes."
+  }
+  {
+    "instruction": "What is the legal blood alcohol limit in India?",
+    "response": "The legal limit is 0.03% BAC (30 mg alcohol per 100 ml of blood)."
+  }
+  {
+    "instruction": "What does a school zone sign indicate?",
+    "response": "It warns drivers to reduce speed and watch for children crossing."
+  }
+  {
+    "instruction": "What should you do when brakes fail?",
+    "response": "Downshift gears, use the handbrake carefully, and steer to a safe stop."
+  }
+  {
+    "instruction": "What is the penalty for dangerous driving?",
+    "response": "Dangerous driving may attract fines up to ₹5,000 and/or imprisonment."
+  }
+  {
+    "instruction": "What does a 'Give Way' sign mean?",
+    "response": "You must slow down and give priority to traffic on the main road."
+  }
+  {
+    "instruction": "How should you overtake safely?",
+    "response": "Overtake from the right, ensure clear visibility, and signal before maneuvering."
+  }
+  {
+    "instruction": "What is the penalty for jumping a red light?",
+    "response": "Jumping a red light can result in a fine of ₹1,000 to ₹5,000."
+  }
+  {
+    "instruction": "What does a broken white line indicate?",
+    "response": "It indicates that lane changing and overtaking are allowed if safe."
+  }
+  {
+    "instruction": "What should you do when driving in heavy rain?",
+    "response": "Reduce speed, maintain distance, and avoid sudden braking."
+  }
+  {
+    "instruction": "What is hydroplaning?",
+    "response": "Hydroplaning occurs when tires lose contact with the road due to water, causing loss of control."
+  }
+  {
+    "instruction": "What should you do if a tire bursts while driving?",
+    "response": "Hold the steering firmly, avoid braking suddenly, and slow down gradually."
+  }
+  {
+    "instruction": "What is the penalty for not carrying vehicle documents?",
+    "response": "Failure to produce documents can lead to fines up to ₹5,000 depending on the violation."
+  }
+  {
+    "instruction": "What does a 'Narrow Road Ahead' sign indicate?",
+    "response": "It warns that the road ahead becomes narrower, requiring caution."
+  }
+  {
+    "instruction": "What is the correct way to use indicators?",
+    "response": "Use indicators well in advance before turning or changing lanes."
+  }
+  {
+    "instruction": "What should you do when approaching a railway crossing without a gate?",
+    "response": "Stop, look both ways, and proceed only when no train is approaching."
+  }
+  {
+    "instruction": "What is the importance of mirrors while driving?",
+    "response": "Mirrors help monitor traffic around you and are essential for safe maneuvering."
+  }
+  
+  {
+    "instruction": "What is the minimum age to obtain a driving license for a motorcycle without gear in India?",
+    "response": "The minimum age is 16 years with parental consent."
+  }
+  {
+    "instruction": "What is the minimum age for a private car driving license?",
+    "response": "The minimum age is 18 years."
+  }
+  {
+    "instruction": "What is the penalty for driving without insurance?",
+    "response": "Driving without insurance can lead to a fine of ₹2,000 and/or imprisonment for up to 3 months."
+  }
+  {
+    "instruction": "What should you do if traffic lights are not working?",
+    "response": "Treat it as an uncontrolled intersection and follow right-hand priority rules or police instructions."
+  }
+  {
+    "instruction": "What is the meaning of a circular red-bordered sign?",
+    "response": "It indicates prohibitory instructions such as speed limits or restrictions."
+  }
+  {
+    "instruction": "What is tailgating and why is it dangerous?",
+    "response": "Tailgating is following too closely, reducing reaction time and increasing accident risk."
+  }
+  {
+    "instruction": "What is the penalty for triple riding on a two-wheeler?",
+    "response": "Triple riding can result in a fine of ₹1,000."
+  }
+  {
+    "instruction": "What should you do when an oncoming vehicle uses high beam at night?",
+    "response": "Slow down, look slightly to the left, and avoid direct glare."
+  }
+  {
+    "instruction": "What does a 'Slippery Road' sign indicate?",
+    "response": "It warns that the road may be slippery, especially in wet conditions."
+  }
+  {
+    "instruction": "What is the correct action at a zebra crossing with pedestrians waiting?",
+    "response": "Stop and allow pedestrians to cross safely."
+  }
+  {
+    "instruction": "What is the penalty for not wearing a helmet for pillion riders?",
+    "response": "A fine of ₹1,000 and possible license disqualification."
+  }
+  {
+    "instruction": "What does a 'Speed Breaker Ahead' sign indicate?",
+    "response": "It warns drivers to slow down due to an upcoming speed breaker."
+  }
+  {
+    "instruction": "What should you do when your vehicle starts skidding?",
+    "response": "Do not brake suddenly; steer gently in the direction of the skid."
+  }
+  {
+    "instruction": "What is the penalty for driving without a PUC certificate?",
+    "response": "It can attract a fine of ₹10,000 and/or imprisonment."
+  }
+  {
+    "instruction": "What does a green traffic light indicate?",
+    "response": "You may proceed if the intersection is clear."
+  }
+  {
+    "instruction": "What is the purpose of ABS in vehicles?",
+    "response": "ABS prevents wheel lock during braking and improves control."
+  }
+  {
+    "instruction": "What should you do before overtaking on a highway?",
+    "response": "Ensure sufficient distance, visibility, and signal your intention."
+  }
+  {
+    "instruction": "What does a 'Right Turn Prohibited' sign indicate?",
+    "response": "It indicates that turning right is not allowed at that location."
+  }
+  {
+    "instruction": "What is the penalty for overspeeding for heavy vehicles?",
+    "response": "It can go up to ₹4,000 depending on the violation."
+  }
+  {
+    "instruction": "What should you do if your vehicle catches fire?",
+    "response": "Stop immediately, switch off the engine, and move away from the vehicle."
+  }
+
+  {
+    "instruction": "What is the safe way to reverse a vehicle?",
+    "response": "Check mirrors, look over your shoulder, and move slowly with control."
+  }
+  {
+    "instruction": "What does a 'Men at Work' sign indicate?",
+    "response": "It warns that roadwork is in progress ahead."
+  }
+  {
+    "instruction": "What is the penalty for driving dangerously causing injury?",
+    "response": "It may result in heavy fines, imprisonment, and license suspension."
+  }
+  {
+    "instruction": "What is aquaplaning?",
+    "response": "It occurs when tires ride on water, losing grip on the road."
+  }
+  {
+    "instruction": "What should you do when approaching a blind curve?",
+    "response": "Slow down, keep to your lane, and avoid overtaking."
+  }
+  {
+    "instruction": "What does a 'Horn Prohibited' sign indicate?",
+    "response": "It indicates that honking is not allowed in that area."
+  }
+  {
+    "instruction": "What is the penalty for overloading a vehicle?",
+    "response": "It can result in fines and restrictions on vehicle usage."
+  }
+  {
+    "instruction": "What should you do if brakes feel spongy?",
+    "response": "Reduce speed and get the braking system checked immediately."
+  }
+  {
+    "instruction": "What is the correct parking method on a slope?",
+    "response": "Turn wheels toward the curb and use the parking brake."
+  }
+  {
+    "instruction": "What does a 'Cycle Crossing' sign indicate?",
+    "response": "It warns that cyclists may cross the road ahead."
+  }
+
+  {
+    "instruction": "What should you do when an animal suddenly crosses the road?",
+    "response": "Slow down and avoid sudden swerving to prevent accidents."
+  }
+  {
+    "instruction": "What is the penalty for racing on public roads?",
+    "response": "It can result in fines up to ₹10,000 and/or imprisonment."
+  }
+  {
+    "instruction": "What does a 'Hospital Ahead' sign indicate?",
+    "response": "It warns drivers to avoid honking and drive carefully."
+  }
+  {
+    "instruction": "What is the importance of lane discipline?",
+    "response": "It ensures smooth traffic flow and reduces accidents."
+  }
+  {
+    "instruction": "What should you do when entering a roundabout?",
+    "response": "Give way to traffic already inside the roundabout."
+  }
+  {
+    "instruction": "What is the penalty for not using indicators?",
+    "response": "It may result in fines and is considered unsafe driving."
+  }
+  {
+    "instruction": "What does a 'Falling Rocks' sign indicate?",
+    "response": "It warns of possible rockfall in hilly areas."
+  }
+  {
+    "instruction": "What should you do in case of engine overheating?",
+    "response": "Stop safely and allow the engine to cool before checking."
+  }
+  {
+    "instruction": "What is the correct way to use hazard lights?",
+    "response": "Use them when your vehicle is stationary due to breakdown or emergency."
+  }
+  {
+    "instruction": "What does a 'Narrow Bridge' sign indicate?",
+    "response": "It warns that a bridge ahead is narrower than the road."
+  }
+
+  {
+    "instruction": "What should you do when merging onto a highway?",
+    "response": "Match speed with traffic and merge safely using indicators."
+  }
+  {
+    "instruction": "What is the penalty for driving without number plates?",
+    "response": "It can lead to fines and vehicle seizure."
+  }
+  {
+    "instruction": "What does a 'Steep Ascent' sign indicate?",
+    "response": "It warns of a steep uphill road ahead."
+  }
+  {
+    "instruction": "What is engine braking?",
+    "response": "Using lower gears to slow down the vehicle without brakes."
+  }
+  {
+    "instruction": "What should you do if visibility is very poor?",
+    "response": "Use fog lights, reduce speed, and maintain safe distance."
+  }
+  {
+    "instruction": "What does a 'Cross Road' sign indicate?",
+    "response": "It warns of an intersection ahead."
+  }
+  {
+    "instruction": "What is the penalty for driving an unregistered vehicle?",
+    "response": "It can lead to fines and legal action."
+  }
+  {
+    "instruction": "What should you do before starting your vehicle?",
+    "response": "Check mirrors, surroundings, and fasten seatbelt."
+  }
+  {
+    "instruction": "What does a 'Hairpin Bend' sign indicate?",
+    "response": "It warns of a sharp U-shaped turn ahead."
+  }
+  {
+    "instruction": "What is the importance of seatbelt pretensioners?",
+    "response": "They tighten seatbelts during collisions for better protection."
+  }
+
+  {
+    "instruction": "What should you do when being overtaken?",
+    "response": "Maintain speed and allow the overtaking vehicle to pass."
+  }
+  {
+    "instruction": "What does a 'Dead End' sign indicate?",
+    "response": "It indicates that the road does not lead to an exit."
+  }
+  {
+    "instruction": "What is the penalty for not giving way to emergency vehicles?",
+    "response": "It may result in fines and legal consequences."
+  }
+  {
+    "instruction": "What should you do in case of a minor accident?",
+    "response": "Move vehicles safely aside and exchange details."
+  }
+  {
+    "instruction": "What does a 'Roundabout Ahead' sign indicate?",
+    "response": "It warns drivers of an upcoming circular intersection."
+  }
+  {
+    "instruction": "What is the importance of proper tire pressure?",
+    "response": "It ensures better control, safety, and fuel efficiency."
+  }
+  {
+    "instruction": "What should you do when driving downhill?",
+    "response": "Use lower gears and avoid continuous braking."
+  }
+  {
+    "instruction": "What does a 'Pedestrian Prohibited' sign indicate?",
+    "response": "It indicates pedestrians are not allowed on that road."
+  }
+  {
+    "instruction": "What is the penalty for modifying a vehicle illegally?",
+    "response": "It can result in fines and vehicle deregistration."
+  }
+  {
+    "instruction": "What should you do when approaching a toll plaza?",
+    "response": "Slow down, follow lane markings, and pay toll or use FASTag."
+  }
+
+  {
+    "instruction": "What is the role of reflectors on vehicles?",
+    "response": "They improve visibility of vehicles in low light conditions."
+  }
+  {
+    "instruction": "What does a 'Truck Lay-by' sign indicate?",
+    "response": "It indicates a place where trucks can stop temporarily."
+  }
+  {
+    "instruction": "What should you do when a traffic police officer signals you to stop?",
+    "response": "Stop safely and follow the officer’s instructions."
+  }
+  {
+    "instruction": "What is the penalty for not obeying traffic signals?",
+    "response": "It can result in fines and penalty points."
+  }
+  {
+    "instruction": "What does a 'No Parking' sign indicate?",
+    "response": "It indicates that parking is not allowed in that area."
+  }
+  {
+    "instruction": "What should you do if your headlights fail at night?",
+    "response": "Use hazard lights and stop safely as soon as possible."
+  }
+  {
+    "instruction": "What is the importance of road markings?",
+    "response": "They guide traffic movement and improve safety."
+  }
+  {
+    "instruction": "What does a 'Y Intersection' sign indicate?",
+    "response": "It warns that the road splits into two directions ahead."
+  }
+  {
+    "instruction": "What should you do when driving near schools?",
+    "response": "Reduce speed and watch for children."
+  }
+  {
+    "instruction": "What is the penalty for driving without FASTag on highways?",
+    "response": "It may result in double toll charges."
+  }
+  {
+    "instruction": "What is the minimum age to obtain a driving license for a geared motorcycle in India?",
+    "response": "As per the Motor Vehicles Act, the minimum age to obtain a driving license for a geared motorcycle (e.g., Royal Enfield, Pulsar) is 18 years. You must also have knowledge of traffic rules and pass a driving test at the RTO."
+  }
+  {
+    "instruction": "You are driving on a narrow hill road in Himachal Pradesh. Who has the right of way: the vehicle going uphill or the one coming downhill?",
+    "response": "The vehicle going uphill has the right of way. The downhill vehicle must stop and give way because it is easier for the downhill vehicle to start again, and reversing uphill is dangerous and difficult."
+  }
+  {
+    "instruction": "What does a solid yellow line in the middle of a road mean in India?",
+    "response": "A solid yellow line means no overtaking or crossing. Vehicles on either side must not cross this line. It is used on dangerous curves, blind summits, or narrow bridges."
+  }
+  {
+    "instruction": "What is the current fine for driving without a valid driving license as per the amended Motor Vehicles Act?",
+    "response": "As per the Motor Vehicles (Amendment) Act 2019, the fine for driving without a valid driving license is ₹5,000. Previously it was ₹500. For subsequent offences within three years, the fine can be higher or lead to license cancellation."
+  }
+  {
+    "instruction": "You see a triangular red sign with 'STOP' written inside. What must you do?",
+    "response": "You must come to a complete halt at the stop line. Do not creep forward. Check for traffic from all directions, especially from your right, and only proceed when it is absolutely safe."
+  }
+  {
+    "instruction": "What is defensive driving in the context of Indian roads?",
+    "response": "Defensive driving means anticipating potential hazards and other drivers' mistakes. On Indian roads, this includes: assuming a pedestrian may jump in front, expecting a vehicle to cut lanes without indicator, maintaining a 3-second gap from the vehicle ahead, and constantly scanning mirrors every 5-8 seconds."
+  }
+  {
+    "instruction": "A school bus is stopped with its red lights flashing and a stop sign extended. Are you allowed to overtake it?",
+    "response": "No. You must stop at a safe distance. Overtaking a school bus with flashing red lights is illegal and endangers children who may be crossing. Wait until the lights stop flashing and the sign is retracted."
+  }
+  {
+    "instruction": "Identify this sign: A red circle with a white horizontal bar inside. What does it prohibit?",
+    "response": "That is the 'No Entry' sign (Mandatory Sign). It prohibits all vehicles from entering a road or a lane from that point. Entering despite this sign can lead to a fine of ₹500-1000 and potential points on your license."
+  }
+  {
+    "instruction": "What is the maximum blood alcohol content (BAC) allowed for a driver in India?",
+    "response": "The maximum permissible BAC is 30 mg per 100 ml of blood (0.03%). In simpler terms, even a single large peg of liquor or one full beer can exceed this. First-time offence fine is ₹10,000 and/or 6 months jail. Second offence: ₹15,000 and up to 2 years jail."
+  }
+  {
+    "instruction": "You are approaching a traffic light that has turned yellow. What should you do?",
+    "response": "Stop if you can do so safely without harsh braking. Do not accelerate to beat the yellow light. In India, running a yellow that turns red mid-crossing is treated as a red-light violation. Only proceed if you are already so close that sudden stopping would cause a rear-end collision."
+  }
+  {
+    "instruction": "What is the punishment for not wearing a helmet while riding a two-wheeler?",
+    "response": "As per the MV Act, the fine is ₹1,000 and possible disqualification from holding a license for 3 months. In many states like Delhi and Karnataka, it is ₹2,000. Additionally, the pillion rider must also wear a helmet."
+  }
+  {
+    "instruction": "What does a 'Give Way' sign look like and what must you do?",
+    "response": "It is an inverted triangle (pointing down) with a red border and white background. You must slow down, be ready to stop, and let vehicles on the main road pass first. Unlike a 'STOP' sign, you don't need to come to a complete halt if the main road is clear."
+  }
+  {
+    "instruction": "While driving on a highway in India, you see a sign showing a pedestrian crossing with a yellow blinking light. What is the correct action?",
+    "response": "Reduce speed to below 30 km/h, be prepared to stop, and give way to any pedestrian on or about to enter the crossing. Pedestrians have right of way here. Do not honk aggressively—it can startle them."
+  }
+  {
+    "instruction": "Can you carry a child below 4 years on a motorcycle?",
+    "response": "No, the Motor Vehicles Act prohibits carrying a child below 4 years of age on a motorcycle. For children above 4, they must sit behind the rider with their feet on footrests and wear a properly fitted helmet."
+  }
+  {
+    "instruction": "What is the fine for using a mobile phone while driving?",
+    "response": "The fine is ₹5,000 for first offence. This includes talking, texting, or using maps while holding the phone. Using a hands-free device or a properly mounted phone for navigation is allowed, but you must not touch it while the vehicle is in motion."
+  }
+  {
+    "instruction": "Identify this sign: A blue circle with a white 'P' inside.",
+    "response": "That is a mandatory sign for 'Parking'. It indicates a designated parking area. If the 'P' has a diagonal red slash, it means 'No Parking'. No parking fines range from ₹500 to ₹2,000 depending on the city."
+  }
+  {
+    "instruction": "You are driving at night on an unlit rural road in UP. A vehicle approaches from the opposite side with high beam. What should you do?",
+    "response": "First, flash your high beam once to remind them to dip. If they don't respond, reduce your speed significantly, look towards the left edge of the road (avoid looking directly at their lights), and dip your own beams. Be ready for pedestrians or animals without lights."
+  }
+  {
+    "instruction": "What documents must you carry while driving in India?",
+    "response": "You must carry: 1) Valid driving license, 2) Registration Certificate (RC) of the vehicle, 3) Insurance certificate (at least third-party), 4) Pollution Under Control (PUC) certificate, and 5) Fitness certificate (for commercial vehicles). Digital copies in DigiLocker or mParivahan are legally valid."
+  }
+  {
+    "instruction": "What does a broken white line in the center of a road indicate?",
+    "response": "A broken white line means you can change lanes or overtake if it is safe and the road ahead is clear. However, you must not cross a solid line next to it (if it's a combined line). Always signal before changing lanes."
+  }
+  {
+    "instruction": "You see a sign with a red circle and a motorcycle inside it. What does it mean?",
+    "response": "That is a 'No Motorcycles' prohibition sign. Two-wheelers (motorcycles, scooters) are not allowed on that road. Usually found on expressways or flyovers meant only for cars and heavy vehicles."
+  }
+  {
+    "instruction": "What is the safe following distance in seconds recommended for Indian highways?",
+    "response": "The 3-second rule: Pick a fixed point (e.g., a tree or sign). When the vehicle ahead passes it, count 'one thousand one, one thousand two, one thousand three'. If you reach that point before finishing, you are too close. Increase to 4-5 seconds in rain or fog."
+  }
+  {
+    "instruction": "What is the penalty for driving a vehicle without insurance?",
+    "response": "First offence: Fine of ₹2,000 and/or imprisonment up to 3 months. Second offence: Fine of ₹4,000 and/or imprisonment up to 3 months. This is for driving without any insurance. Third-party insurance is mandatory by law."
+  }
+  {
+    "instruction": "A green traffic signal is on, but the road ahead is blocked by traffic. Should you enter the intersection?",
+    "response": "No. Even if the light is green, do not enter if the traffic ahead is jammed. You must stop before the stop line or intersection to avoid 'gridlock'. Blocking the intersection is a traffic violation and can attract a fine of ₹500-1000."
+  }
+  {
+    "instruction": "Identify this sign: A yellow square with a black 'X' and two 'R's?",
+    "response": "That is a 'Level Crossing without gates or lights' (Railway crossing). You must stop, look both sides for trains, listen for horns, and cross only when safe. A single 'R' means 'Railway crossing with gates'."
+  }
+  {
+    "instruction": "You are driving a car. Can a pillion rider on a motorcycle hold a large item like a gas cylinder?",
+    "response": "No. The law prohibits carrying any load that extends beyond the body of the two-wheeler or that prevents the rider from using both hands. Pillion riders must sit with both legs on one side or astride, and both hands free to hold the grab rail."
+  }
+  {
+    "instruction": "What is the purpose of a 'Dangerous Dip' warning sign?",
+    "response": "It warns of a sudden depression or dip in the road ahead. Reduce speed significantly before reaching it. In Indian conditions, dips often collect water or debris. Driving fast over a dip can damage suspension or cause loss of control."
+  }
+  {
+    "instruction": "What is the fine for over-speeding in India?",
+    "response": "For light motor vehicles (cars, bikes): ₹1,000 to ₹2,000 for first offence. For medium/heavy vehicles: ₹2,000 to ₹4,000. Additionally, the license can be impounded. Speed limits: 60 km/h in city, 80-100 km/h on highways unless posted otherwise."
+  }
+  {
+    "instruction": "You approach a traffic roundabout. Who has the right of way?",
+    "response": "Vehicles already inside the roundabout have right of way. You must give way to traffic from your right. Signal left when exiting. In India, some roundabouts operate with 'yield to right', but newer ones follow 'yield to left'? Actually, the rule is: yield to vehicles already on the roundabout from your right."
+  }
+  {
+    "instruction": "What does a 'No Horn' sign look like and where is it typically found?",
+    "response": "A red circle with a black horn inside and a red slash. Found near hospitals, schools, courts, and silence zones. Fines for unnecessary honking range from ₹1,000 to ₹5,000 in cities like Mumbai and Delhi."
+  }
+  {
+    "instruction": "While overtaking a long truck on a two-lane road, what is the biggest risk in India?",
+    "response": "The biggest risk is that the truck may suddenly turn left (or right in left-hand traffic) without signaling, or that a vehicle (car, motorcycle, pedestrian) may emerge from in front of the truck. Always overtake only when you can see the entire road ahead, and give a short horn or flash lights before pulling out."
+  }
+  {
+    "instruction": "What is the penalty for driving a vehicle that has no PUC (Pollution Under Control) certificate?",
+    "response": "Fine of ₹1,000 for first offence. For repeat offence, ₹2,000 and possible suspension of registration. PUC is mandatory every 6 months for petrol/CNG and every 3 months for diesel vehicles in most cities."
+  }
+  {
+    "instruction": "You see a sign of a man digging with a shovel. What does it indicate?",
+    "response": "That is a 'Men at Work' or 'Road Construction Ahead' warning sign. Reduce speed to below 25 km/h, watch for workers, uneven surfaces, and diverted traffic. Do not overtake near construction zones."
+  }
+  {
+    "instruction": "A learner's license holder is driving a car. Who must accompany them?",
+    "response": "A permanent license holder with at least 4 years of experience (for LMV) must sit beside them. The vehicle must display an 'L' plate (red 'L' on white background, 18 cm square) on front and rear. No passengers other than the instructor are allowed."
+  }
+  {
+    "instruction": "What does a flashing red traffic light mean?",
+    "response": "Treat it as a STOP sign. Come to a complete halt, check for traffic in all directions, and proceed only when safe. Flashing red is often used at railway crossings or during night/low traffic hours at intersections."
+  }
+  {
+    "instruction": "You are driving on a road with speed breakers. What is the correct technique?",
+    "response": "Slow down well before the speed breaker (to below 15 km/h). Do not brake sharply on top of the breaker. If you brake on top, your vehicle's nose may dip and hit the road. Approach straight, not at an angle, to avoid suspension damage."
+  }
+  {
+    "instruction": "What is the fine for not stopping at a 'STOP' sign?",
+    "response": "₹1,000 for first offence. The RTO considers it a serious violation because it often causes T-bone collisions at intersections. A rolling stop (not complete halt) is considered a violation."
+  }
+  {
+    "instruction": "Identify this sign: A red circle with a white 'S' with a slash through it?",
+    "response": "That is a 'No Stopping' sign. You cannot stop even for a moment, except in an emergency. It is more strict than 'No Parking'. Fine is typically ₹500-2000, and vehicle may be towed."
+  }
+  {
+    "instruction": "On a rainy day, your car's tyres lose grip. What is the first action?",
+    "response": "Do not brake hard. Take your foot off the accelerator, hold the steering straight, and gently pump the brakes (if no ABS) or apply steady pressure (if ABS). Do not turn sharply. Reduce speed gradually until you feel grip return."
+  }
+  {
+    "instruction": "What is the legal requirement regarding high beams within city limits?",
+    "response": "Within city limits with street lights, you must use low beam (dipped) only. High beam can be used only on dark, unlit roads without oncoming traffic. Using high beam in city can cause glare and attracts a fine of ₹500 in some states."
+  }
+  {
+    "instruction": "You see a sign of a winding road with two curves (first left, then right). What does it mean?",
+    "response": "That is a 'Double Curve' warning sign. The road ahead has two consecutive curves in opposite directions. Reduce speed, stay in your lane, and do not overtake. The second curve is often sharper than the first."
+  }
+  {
+    "instruction": "Can a driving license issued in one Indian state be used in another state?",
+    "response": "Yes, a driving license issued by any RTO in India is valid throughout the country. You do not need a separate permit. However, if you relocate permanently to another state, you should transfer your license within 30 days."
+  }
+  {
+    "instruction": "What is the penalty for racing or performing stunts on public roads?",
+    "response": "Fine of ₹5,000 to ₹10,000 and/or imprisonment up to 1 year. The vehicle can be impounded. Stunts include wheelies, drifting, skidding, and racing. The license can be suspended for 12 months."
+  }
+  {
+    "instruction": "You are driving behind a large bus that blocks your view. What should you do?",
+    "response": "Maintain extra distance (at least 4 seconds). Do not hug the bumper. If you need to overtake, first drop back to see past the bus, then signal, change lane, and overtake quickly. Never overtake near a bus stop as passengers may cross in front."
+  }
+  {
+    "instruction": "Identify this sign: A blue rectangle with a white arrow pointing straight and a left bend?",
+    "response": "That is an 'Informatory Sign' showing a 'One Way' with a mandatory direction. You must follow the arrow. Driving against a one-way is a serious offence: fine ₹1,000-2,000 and license points."
+  }
+  {
+    "instruction": "What is the correct procedure when an ambulance with siren and flashing lights approaches from behind?",
+    "response": "Immediately move to the left side of your lane (or as far left as possible) and stop if necessary. Create a clear 'corridor' for the ambulance. Do not block or follow closely behind. Failing to give way attracts a fine of ₹10,000."
+  }
+  {
+    "instruction": "What does a 'Narrow Bridge' warning sign indicate?",
+    "response": "The bridge ahead is narrower than the road. Reduce speed, and if two vehicles cannot pass side-by-side, the one closer to the wider end must wait. Trucks often take center position, so be prepared to stop."
+  }
+  {
+    "instruction": "You are turning right at an intersection without a dedicated arrow. Who do you give way to?",
+    "response": "Give way to all oncoming traffic going straight or turning left. Also give way to pedestrians crossing the road you are entering. Wait in the center of the intersection (without blocking) until it's safe."
+  }
+  {
+    "instruction": "What is the legal age to obtain a commercial driving license (for trucks, taxis)?",
+    "response": "20 years, and you must have held a light motor vehicle license for at least 1 year. Additionally, you need to pass a separate transport vehicle test and obtain a badge (for taxis) or a driver's endorsement."
+  }
+  {
+    "instruction": "You see a sign with a red triangle showing an elephant. What does it warn?",
+    "response": "'Wild Animals Crossing' – typically elephants, but can indicate other large animals. Found near forest areas like Kaziranga or Corbett. Reduce speed drastically, use horn intermittently, and do not honk continuously as it may agitate animals."
+  }
+  {
+    "instruction": "What is the penalty for not wearing a seatbelt as a driver?",
+    "response": "Fine of ₹1,000. For the front passenger, same fine. In some states (Delhi, Karnataka), it is ₹2,000. Seatbelts are mandatory even in rear seats in a few cities, but central law still requires only front seat belt enforcement."
+  }
+  {
+    "instruction": "You are driving in fog with visibility less than 50 meters. What lights should you use?",
+    "response": "Use low beam headlights (not high beam, as it reflects back) and front fog lamps if available. Also turn on rear fog lamp or hazard lights if moving slowly. Do not drive above 30 km/h. If visibility is zero, pull over completely off the road."
+  }
+  {
+    "instruction": "What does a 'Speed Breaker Ahead' sign look like?",
+    "response": "A yellow diamond with a rectangular black bump. Some states use a pictorial sign showing a car bouncing. It warns that a speed breaker (rumble strip or raised road) is ahead. Slow down to under 15 km/h."
+  }
+  {
+    "instruction": "Can a 16-year-old ride a 50cc moped without a license?",
+    "response": "No. The Motor Vehicles Act requires a license for any motor vehicle. For a 50cc moped, minimum age is 16 years, but you still need a learner's license followed by a permanent license. Without license, fine is ₹5,000."
+  }
+  {
+    "instruction": "You are driving on a road where the left lane ends due to construction. Who merges?",
+    "response": "The vehicles in the ending lane must merge into the continuing lane. But defensive driving says: use the 'zipper merge' – one vehicle from ending lane, then one from continuing lane. Do not speed up to block merging vehicles."
+  }
+  {
+    "instruction": "Identify this sign: A blue circle with a white arrow pointing up?",
+    "response": "That is a 'Proceed Straight' mandatory sign. You must go straight. No turning left or right. Common at intersections where turning is prohibited due to medians or one-way streets."
+  }
+  {
+    "instruction": "What is the penalty for driving a vehicle that is not registered (no RC)?",
+    "response": "Fine of ₹5,000 for first offence. For second offence, ₹10,000 and/or imprisonment up to 1 year. Temporary registration is valid only for 30 days from purchase. After that, permanent registration is mandatory."
+  }
+  {
+    "instruction": "You are driving on a wet road and need to brake suddenly. What technique avoids skid?",
+    "response": "If your car has ABS (most post-2015 models), brake hard and steer. If no ABS, use 'cadence braking': pump the brake pedal rapidly (on-off) to prevent wheel lock. On a two-wheeler, use both brakes progressively – rear slightly before front."
+  }
+  {
+    "instruction": "What does a 'Roundabout Ahead' sign indicate?",
+    "response": "It warns that a roundabout (traffic circle) is ahead. Reduce speed to below 30 km/h, select the correct lane in advance: left lane for left turn/straight, right lane for right turn/going around."
+  }
+  {
+    "instruction": "What is the maximum speed limit for a two-wheeler on an Indian expressway?",
+    "response": "Two-wheelers are generally prohibited on expressways like the Yamuna Expressway. Where allowed (some state highways), the limit is 70 km/h. National highways: 80 km/h for bikes unless posted otherwise."
+  }
+  {
+    "instruction": "You see a sign with a red circle and '60' inside. What does it mean?",
+    "response": "That is a 'Speed Limit' mandatory sign: maximum 60 km/h. If there's a black '60' with a red slash, it means 'End of speed limit'. Exceeding by more than 20 km/h attracts higher fines and possible jail."
+  }
+  {
+    "instruction": "While driving, your engine warning light turns on. What is the immediate action?",
+    "response": "Do not ignore it. Reduce speed gradually, avoid high revs, and head to the nearest garage. If the light flashes, pull over safely and turn off the engine – it could indicate serious engine damage. Call for roadside assistance."
+  }
+  {
+    "instruction": "What is the penalty for not giving way to a pedestrian at a zebra crossing?",
+    "response": "Fine of ₹500 to ₹1,000. In many cities, cameras now enforce this. As a defensive driver, always stop at zebra crossings even if the pedestrian is waiting, and never honk at crossing pedestrians."
+  }
+  {
+    "instruction": "Identify this sign: A yellow triangle with a black 'H' inside?",
+    "response": "That is a 'Hospital Ahead' warning sign. Not to be confused with a blue 'H' (informatory). This warns you are approaching a hospital. Reduce speed, do not honk, and give way to ambulances entering/exiting."
+  }
+  {
+    "instruction": "You are reversing a car in a crowded market. What is the safest method?",
+    "response": "Turn your head and look directly behind, not just mirrors. Go extremely slowly (walking pace). Use your hazard lights. If visibility is poor, ask someone to guide you. Never reverse from a side road into a main road."
+  }
+  {
+    "instruction": "What is the validity period of a learner's license?",
+    "response": "6 months from the date of issue. You can apply for a permanent license after 30 days but before 180 days. If you don't get a permanent license within 6 months, you must reapply for a learner's license."
+  }
+  {
+    "instruction": "You see a sign showing a bicycle in a red circle. What does it prohibit?",
+    "response": "That is a 'No Bicycles' sign. Cyclists must dismount and walk. Found on flyovers, tunnels, and some city bridges. Violation fine is typically ₹100-500 but can be higher in some states."
+  }
+  {
+    "instruction": "What is defensive driving regarding left turns (in India's left-hand traffic)?",
+    "response": "Before turning left, check your left mirror for cyclists or motorcycles that may be overtaking from the left (illegal but common). Signal left well in advance, move to the left lane, and then turn. Do not swing wide right before turning left."
+  }
+  {
+    "instruction": "What is the fine for jumping a red light?",
+    "response": "₹5,000 for first offence. For second offence within 3 years, ₹10,000 and/or up to 1 year jail. Red light cameras are common in Delhi, Mumbai, Bengaluru, and Chennai."
+  }
+  {
+    "instruction": "Identify this sign: A yellow triangle with a black 'Y' shape?",
+    "response": "That is a 'Y-Intersection' warning sign. The road ahead splits into a Y shape. You must choose your lane in advance. Do not stop at the fork to decide; decide before reaching."
+  }
+  {
+    "instruction": "You are driving and a tyre bursts. What should you do?",
+    "response": "Do not brake hard. Grip the steering firmly. Take your foot off the accelerator. Let the vehicle slow down naturally. Turn on hazard lights. Steer straight to maintain control. Only brake gently when speed is below 30 km/h. Then pull off the road."
+  }
+  {
+    "instruction": "What is the minimum insurance coverage required for all vehicles in India?",
+    "response": "Third-party liability insurance. This covers injury, death, or property damage to another person/vehicle. It does NOT cover your own vehicle damage. Own-damage (comprehensive) is optional but recommended. Driving without third-party insurance is a criminal offence."
+  }
+  {
+    "instruction": "What does a sign with '80' in a red circle with a slash mean?",
+    "response": "That is an 'End of Speed Limit' sign. It cancels the previous maximum speed limit. The default speed limit of the road (e.g., 60 in city, 80 on highway) then applies."
+  }
+  {
+    "instruction": "You are driving at 80 km/h and a dog suddenly runs onto the road. Do you swerve?",
+    "response": "Do not swerve violently. Brake firmly but controlled. Hitting the dog is tragic, but swerving can cause a worse accident with other vehicles or pedestrians. If you can change lanes safely without endangering others, do so. Otherwise, brake straight."
+  }
+  {
+    "instruction": "What is the penalty for allowing an unlicensed person to drive your vehicle?",
+    "response": "Fine of ₹5,000 for the vehicle owner. The unlicensed driver also faces ₹5,000 fine and possible legal action. The owner's insurance may be voided if an accident occurs."
+  }
+  {
+    "instruction": "Identify this sign: A red circle with a white 'H' with a red slash?",
+    "response": "That is a 'No Horn' sign? No, that would be a horn with slash. A red circle with 'H' and slash is not standard. Possibly confusion. Let me correct: A red circle with a horn means no horn. A blue square with 'H' means hospital. There is no 'no hospital' sign."
+  }
+  {
+    "instruction": "You are driving on a single lane road and see an oncoming vehicle. Who backs up?",
+    "response": "The vehicle that is closer to a passing place (widening, driveway, or shoulder) must reverse or pull aside. If both are equally close, the vehicle going downhill should reverse uphill because it's easier to control reversing uphill. Use hand signals or flash lights to communicate."
+  }
+  {
+    "instruction": "What is the legal requirement regarding reflectors on a bicycle at night?",
+    "response": "Bicycles must have a white reflector in front, a red reflector at rear, and amber reflectors on pedals. A white headlight and red taillight are mandatory after sunset. Fine for no lights: ₹100-500."
+  }
+  {
+    "instruction": "You are driving and a large pothole appears suddenly. What is the safest action?",
+    "response": "If safe to do so, gently steer around it. Do not swerve abruptly into another lane. If you cannot avoid it, brake just before the pothole and release brake just as you hit it (braking while hitting increases impact). Hold the steering firmly."
+  }
+  {
+    "instruction": "What is the fine for parking in front of a fire hydrant?",
+    "response": "₹500 to ₹2,000, and the vehicle can be towed at owner's expense. In many cities, fire hydrants are marked with yellow paint on the curb or a yellow sign. Never park within 3 meters of a hydrant."
+  }
+  {
+    "instruction": "Identify this sign: A yellow triangle with a black cross?",
+    "response": "That is a 'Level Crossing with gates' (Railway crossing with barriers). Slow down, stop if red lights are flashing or gates are closing. Cross only when gates are fully open and lights stop flashing."
+  }
+  {
+    "instruction": "You are driving through a waterlogged road after rain. What is the risk?",
+    "response": "Risk of hydroplaning (losing traction) and water entering the engine's air intake. Do not drive through water deeper than the center of your wheels. Drive at 5-10 km/h in low gear. After exiting, test brakes by gently pressing them to dry out."
+  }
+  {
+    "instruction": "What is the penalty for not having a 'Pollution Under Control' (PUC) sticker?",
+    "response": "The PUC certificate must be displayed on the windshield (for cars) or on the vehicle (for bikes). Without it, fine is ₹1,000. The sticker itself is not mandatory but the certificate is. Many states now use digital PUC linked to RC."
+  }
+  {
+    "instruction": "You see a sign showing a truck going down a slope. What does it warn?",
+    "response": "'Steep Descent' or 'Downhill Gradient' ahead. Use engine braking (low gear) instead of riding the brake pedal. Overheating brakes can fail. Trucks may have a runaway truck ramp nearby."
+  }
+  {
+    "instruction": "What is the correct lane discipline on a 3-lane highway in India?",
+    "response": "Left lane: slow vehicles (trucks, buses, tractors). Middle lane: normal speed cars. Right lane: overtaking only. Do not cruise in the right lane. Keep left unless overtaking. Fine for wrong lane discipline: ₹1,000."
+  }
+  {
+    "instruction": "You are driving a taxi. Can you refuse a passenger based on destination?",
+    "response": "No. As a public service vehicle, you cannot refuse a passenger for a destination within the city limits or as per permit conditions. Refusal can lead to fine of ₹1,000 to ₹5,000 and possible license suspension. Exception: if passenger is drunk and disorderly."
+  }
+  {
+    "instruction": "What does a 'No Overtaking' sign look like?",
+    "response": "A red circle with a black car and a red slash on the left side (overtaking car). Alternatively, a solid white line on the road. No overtaking zones are common near curves, bridges, and school zones. Violation fine: ₹1,000."
+  }
+  {
+    "instruction": "You are driving and feel drowsy. What should you do?",
+    "response": "Do not continue. Stop at a safe place (not on the highway shoulder if avoidable). Drink water, stretch, or take a 20-minute power nap. Never rely on music or opening windows. Driving drowsy is as dangerous as drunk driving."
+  }
+  {
+    "instruction": "What is the validity of a driving license for a private vehicle?",
+    "response": "For applicants below 50 years: 20 years from date of issue, or until 70 years of age, whichever is earlier. After age 70, renewal every 5 years with a medical certificate. For commercial licenses: 3 years typically."
+  }
+  {
+    "instruction": "Identify this sign: A yellow triangle with a black 'S' curve?",
+    "response": "That is a 'Reverse Curve' warning. First curve one direction, then immediately the opposite direction. Reduce speed to below 40 km/h. Do not brake in the middle of the second curve."
+  }
+  {
+    "instruction": "What is the fine for using a modified exhaust (loud silencer) on a bike?",
+    "response": "Fine of ₹1,000 to ₹5,000 depending on state. The RTO can also impound the vehicle for inspection and order removal of the modification. Noise limits: 80 dB for bikes, 75 dB for cars."
+  }
+  {
+    "instruction": "You are approaching a traffic light that is not working (blackout). What do you do?",
+    "response": "Treat it as a 'STOP' sign. Come to a complete halt. Then proceed with caution, giving way to vehicles from your right. Do not speed through. Report the non-functioning light to traffic police."
+  }
+  {
+    "instruction": "What is the penalty for carrying passengers in a goods vehicle (e.g., pickup truck)?",
+    "response": "Fine of ₹2,000 to ₹5,000 per passenger. The driver's license can be suspended for 3 months. Goods vehicles are not designed for passenger safety and lack seatbelts. Exception: 6 persons allowed in a pickup's cabin if registered for that."
+  }
+  {
+    "instruction": "You see a sign with 'First Aid Post' – what color is it?",
+    "response": "A white square with a red cross. That is an informatory sign indicating a first aid facility ahead. Not to be confused with a red cross on white background (ambulance). Slow down only if you need the facility."
+  }
+  {
+    "instruction": "What is the correct way to use hazard lights (double indicators) in India?",
+    "response": "Use hazard lights only when your vehicle is stationary and obstructing traffic (breakdown, accident) or during extreme fog/rain where speed is below 30 km/h. Do NOT use hazard lights while driving normally, parking illegally, or in light rain."
+  }
+  {
+    "instruction": "What is the fine for driving a vehicle with an expired registration certificate?",
+    "response": "₹5,000 for first offence. If expired by more than 1 year, the RC can be cancelled. Renewal can be done up to 1 year after expiry with a late fee. After that, you need a fresh registration."
+  }
+  {
+    "instruction": "Identify this sign: A yellow triangle with a black arrow pointing left and right (split)?",
+    "response": "That is a 'Split Road' or 'Road Diverges' sign. The road ahead divides into two separate carriageways. Choose your lane in advance. Do not change lanes at the split point."
+  }
+  {
+    "instruction": "You are driving and a cow is standing in the middle of the road. What is the safest action?",
+    "response": "Slow down well in advance. Stop at a safe distance. Honk gently once or twice. Do not honk aggressively – it may startle the animal. Wait for it to move or go around very slowly with a wide berth. Never accelerate to 'scare' it away."
+  }
+  {
+    "instruction": "What is the penalty for not allowing an emergency vehicle to pass?",
+    "response": "Fine of ₹10,000 and/or imprisonment up to 6 months. This includes blocking, refusing to move, or driving alongside to prevent overtaking. You must create a passage by moving to the leftmost side."
+  }
+]
